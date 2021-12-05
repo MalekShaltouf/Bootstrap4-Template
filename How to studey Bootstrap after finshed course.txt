@@ -1,0 +1,3 @@
+read all bootstrap doumentation in order to knowing all classes & components that exists in bootsrap framework
+and when we can use these classes? and after finished read docs => try convert pure css style with bootsrap classes as much as you can in other word try build the template just using boots framework without used pure
+css code as much as you can.

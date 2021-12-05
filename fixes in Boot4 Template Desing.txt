@@ -1,0 +1,15 @@
+-fixing the cards grids in small screen which we want to make third card 
+take whole screen(12 columns) => we did that as Experiment => so was successful Experiment by the give one card =><div class="col-sm-12 col-md">
+and the others card => <div class="col-sm-6 col-md">
+
+
+-sholud be make all section title as same style
+
+-make statists section as a counting form as the linke in video =>
+  https://www.youtube.com/watch?v=sLooDTGoKNI
+
+
+-there are task in testimonials section which we want to make > btn red when there are pages after it
+and make it black if there are not pages after it(the same things also on < btn) => the task is did 
+about 90% => whcih there are bug in it =>which sometime the btn be black although there pages after it
+so try to fix it
